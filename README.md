@@ -19,7 +19,7 @@ Yazılım dünyasında kendimi sürekli geliştirmeye odaklanmış, özellikle m
 
 | Alan | Teknolojiler |
 | :--- | :--- |
-| **Diller** | C#, Dart, JavaScript, C++ |
+| **Diller** | C#, Dart, JavaScript,HTML,CSS |
 | **Frameworks** | Flutter, .NET, Bootstrap |
 | **Araçlar** | Git, GitHub, VS Code, Android Studio |
 | **Donanım** | ESP32, Arduino, Drone Teknolojileri |
